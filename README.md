@@ -4,7 +4,9 @@
 
 #### Example of tying together a Python API backend with a React Frontend
 
-<br>
+
+![Fruit-mgmt-app-scaled-down-image.png](images/Fruit-mgmt-app-scaled-down-image.png)
+
 
 ### TODO:
 
